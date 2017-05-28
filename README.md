@@ -11,6 +11,3 @@ npm install @exponent/react-native-action-sheet
 
 Try it in Exponent: https://getexponent.com/@community/react-native-action-sheet-example
 
-## Usage
-
-[See the example app source](https://github.com/exponent/react-native-action-sheet/tree/master/example)
